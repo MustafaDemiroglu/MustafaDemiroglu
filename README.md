@@ -33,5 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafademiroglu&show_icons=true&locale=en" alt="mustafademiroglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafademiroglu&" alt="mustafademiroglu" /></p>
-
-<a href="https://github.com/MustafaDemiroglu/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/MustafaDemiroglu/GitHubPoster/main/examples/strava_circular.svg"/></a>
