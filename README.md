@@ -47,32 +47,10 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=mustafademiroglu&theme=monokai&margin-w=15&margin-h=15)
 
 
-
 ## Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mustafademiroglu)
 
-## My main projects and participate in projects as a contributor
-
-![AtCoderClans](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=AtCoderClans&theme=tokyonight)
-
-![AtCoderTrophies](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=AtCoderTrophies&theme=tokyonight)
-
-![ac-library-python](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=ac-library-python&show_owner=true&theme=tokyonight)
-
-![AtCoderChokuZen](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=AtCoderChokuZen&theme=tokyonight)]
-
-![AtCoder-Jump-to-Submissions-from-Standings](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=AtCoder-Jump-to-Submissions-from-Standings&theme=tokyonight)
-
-![AtCoder-Editorial-for-Typical90](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=AtCoder-Editorial-for-Typical90&theme=tokyonight)
-
-![Somen-Soupy](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=Somen-Soupy&theme=tokyonight)
-
-![AtCoder](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=AtCoder&theme=tokyonight)
-
-(https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=Daily-hit&theme=tokyonight)
-
-![CodeReadingForMe](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=CodeReadingForMe&theme=tokyonight)
 
 ## References
 
