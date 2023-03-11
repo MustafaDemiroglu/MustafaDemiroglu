@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java.**
 
-- 👯 I’m looking to collaborate on **ay project that can be useful for me.**
+- 👯 I’m looking to collaborate on **any project that can be useful for me.**
 
 - 🤝 I’m looking for help with **learning more and more.**
 
@@ -34,33 +34,35 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafademiroglu&" alt="mustafademiroglu" /></p>
 
-
-
-
 [![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mustafademiroglu&show_icons=true&theme=tokyonight&count_private=true)]
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafademiroglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafademiroglu&layout=compact)]
 
 ## Github Readme Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KATO-Hiro&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafademiroglu&theme=dark)]
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KATO-Hiro&theme=monokai&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mustafademiroglu&theme=monokai&margin-w=15&margin-h=15)]
 
 ## 🏆 AtCoder Trophies
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=hiro_hiro&theme=monokai&rank=SSS,SS,S,AAA,AA,A&column=6&margin_h=15&margin_w=15)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=mustafademiroglu&theme=monokai&rank=SSS,SS,S,AAA,AA,A&column=6&margin_h=15&margin_w=15)]
 
 ## Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KATO-Hiro)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mustafademiroglu)
 
 ## My main projects and participate in projects as a contributor
 
-[![AtCoderClans](https://github-readme-stats.vercel.app/api/pin/?username=KATO-Hiro&repo=AtCoderClans&theme=tokyonight)](https://github.com/KATO-Hiro/AtCoderClans)
-[![AtCoderTrophies](https://github-readme-stats.vercel.app/api/pin/?username=KATO-Hiro&repo=AtCoderTrophies&theme=tokyonight)](https://github.com/KATO-Hiro/AtCoderTrophies)
-[![ac-library-python](https://github-readme-stats.vercel.app/api/pin/?username=not522&repo=ac-library-python&show_owner=true&theme=tokyonight)](https://github.com/not522/ac-library-python)
+[![AtCoderClans](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=AtCoderClans&theme=tokyonight)]
+[![AtCoderTrophies](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=AtCoderTrophies&theme=tokyonight)]
+[![ac-library-python](https://github-readme-stats.vercel.app/api/pin/?username=mustafademiroglu&repo=ac-library-python&show_owner=true&theme=tokyonight)]
+
+
+
+
 [![AtCoderChokuZen](https://github-readme-stats.vercel.app/api/pin/?username=KATO-Hiro&repo=AtCoderChokuZen&theme=tokyonight)](https://github.com/KATO-Hiro/AtCoderChokuZen)
 [![AtCoder-Jump-to-Submissions-from-Standings](https://github-readme-stats.vercel.app/api/pin/?username=KATO-Hiro&repo=AtCoder-Jump-to-Submissions-from-Standings&theme=tokyonight)](https://github.com/KATO-Hiro/AtCoder-Jump-to-Submissions-from-Standings)
 [![AtCoder-Editorial-for-Typical90](https://github-readme-stats.vercel.app/api/pin/?username=KATO-Hiro&repo=AtCoder-Editorial-for-Typical90&theme=tokyonight)](https://github.com/KATO-Hiro/AtCoder-Editorial-for-Typical90)
