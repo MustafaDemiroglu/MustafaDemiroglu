@@ -37,7 +37,7 @@
 
 
 
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mustafademiroglu&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mustafademiroglu&show_icons=true&theme=tokyonight&count_private=true)]
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafademiroglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Readme Streak Stats
