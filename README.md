@@ -34,27 +34,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafademiroglu&" alt="mustafademiroglu" /></p>
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mustafademiroglu&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafademiroglu&layout=compact)
-
-## Github Readme Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafademiroglu&theme=dark)
-
-## 🏆 GitHub Profile Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mustafademiroglu&theme=monokai&margin-w=15&margin-h=15)
-
-
-## Visitors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mustafademiroglu)
-
 
 ## References
 
-[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+[mustafademiroglu/github-readme-stats](https://github.com/mustafademiroglu/github-readme-stats)
 
 [How to use GitHub Readme Stats](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
 
