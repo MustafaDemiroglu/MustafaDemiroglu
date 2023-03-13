@@ -37,8 +37,6 @@
 
 ## References
 
-[mustafademiroglu/github-readme-stats](https://github.com/mustafademiroglu/github-readme-stats)
-
 [How to use GitHub Readme Stats](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
 
 [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
