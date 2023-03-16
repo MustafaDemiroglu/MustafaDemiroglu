@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **learning more and more.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MustafaDemiroglu](on GitHub.)
+- 👨‍💻 All of my projects are available at [https://github.com/](Mustafa)
 
-- 📝 I am not writing regularly articles on [any Website.](any Website.)
+- 📝 I am not writing nowaday regularly articles on any Website. Before i was writing about Logistic.But i am still writing privatly stories for my children. 
 
 - 💬 Ask me about **anything if you believe that you can benefit.**
 
