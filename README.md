@@ -5,17 +5,17 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=mustafademiroglu" alt="mustafademiroglu" /></a> </p>
 
-- 🔭 I’m currently working only on **my self projects.**
+- 🔭 I’m currently working only on **my Internship and self learning projects.**
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **Javascript, React and Typescript.**
 
-- 👯 I’m looking to collaborate on **any project that can be useful for me.**
+- 👯 I’m looking to collaborate on **any React, Typescript and Javascript project that can be useful for me.**
 
-- 🤝 I’m looking for help with **learning more and more.**
+- 🤝 I’m looking for help with **learning more and more. till i die**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MustafaDemiroglu?tab=repositories]
 
-- 📝 I am not writing nowaday regularly articles on any Website. Before i was writing about Logistic.But i am still writing privatly stories for my children. 
+- 📝 I am not writing nowadays regularly articles on any Website. Before i was writing about Logistics and Maritime Transport.But i am still writing privatly stories for my children. 
 
 - 💬 Ask me about **anything if you believe that you can benefit.**
 
