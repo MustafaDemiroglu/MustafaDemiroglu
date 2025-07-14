@@ -1,3 +1,23 @@
+<div>
+    <a><h2>Stats</h2></a>
+    <a href="https://github-readme-stats.vercel.app">
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mustafa-demiroglu&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="47%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mustafa-demiroglu&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-demiroglu&theme=onedark&hide_border=true"/>
+        <img width="52%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-demiroglu&theme=onedark&hide_border=true"/>
+    </a>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mustafa-demiroglu&row=4&theme=onedark&no-frame=true"/>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mustafa-demiroglu&row=4&theme=onedark&no-frame=true" style="color: black;"/>
+    </a>    
+    </a>
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Mustafa Demiroglu</h1>
 <h3 align="center">A passionate Software Developer from Germany</h3>
 
