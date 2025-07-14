@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa Demiroglu</h1>
 
+
 <h3 align="center">A passionate Software Developer from Germany</h3>
+<h3 align="left">About me:</h3>
+
 - 🔭 I’m currently working only on **Kitodo and DSpace projects.**
 
 - 🌱 I’m currently learning **more Java and Python.**
@@ -16,6 +19,7 @@
 - 💬 Ask me about **anything if you believe that you can benefit and only if you are sure that you will not be bored.**
 
 - 📄 Know about my experiences [on w3schools and linkedin.](on w3schools and linkedin.)
+
 
 <h3 align="left">Connect with me:</h3>
 
