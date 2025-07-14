@@ -2,7 +2,7 @@
 
 
 <h3 align="center">A passionate Software Developer from Germany</h3>
-<h3 align="left">About me:</h3>
+<h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working only on **Kitodo and DSpace projects.**
 
@@ -25,7 +25,7 @@
 
 <p align="left">mustafa.demiroglu@gmx.de</p>
 
-<h3 align="left">????:</h3>
+<h3 align="left">GitHub Profil History:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafademiroglu&label=Profile%20views&color=0e75b6&style=flat" alt="mustafademiroglu" /> </p>
 
