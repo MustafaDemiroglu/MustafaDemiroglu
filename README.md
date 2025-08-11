@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working only on **Kitodo and DSpace projects.**
 
-- 🌱 I’m currently learning **more Java and Python.**
+- 🌱 I’m currently learning **more Java, C# and Python.**
 
-- 👯 I’m looking to collaborate on **any Java and Python project that can be useful for me.**
+- 👯 I’m looking to collaborate on **any Java, C# and Python project that can be useful for me.**
 
 - 🤝 I’m looking for help with **learning more and more. till i die**
 
