@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa Demiroglu</h1>
+ <h1 align="center">Hi 👋, I'm Mustafa Demiroglu</h1>
 <h3 align="center">A passionate Software Developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafademiroglu&label=Profile%20views&color=0e75b6&style=flat" alt="mustafademiroglu" /> </p>
@@ -22,6 +22,11 @@
 - 📄 Know about my experiences [on w3schools and linkedin.](on w3schools and linkedin.)
 
 <h3 align="left">Connect with me:</h3>
+
+- mustafa.demiroglu@gmx.de
+
+- +49 176 29 33 8014
+
 <p align="left">
 </p>
 
